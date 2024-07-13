@@ -1,4 +1,4 @@
-#password generator mechanism
+
 
 
 from tkinter import *
